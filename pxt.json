@@ -6,7 +6,6 @@
         "radio": "*"
     },
     "files": [
-        "main.blocks",
         "main.ts",
         "README.md",
         "tutorial.md"
