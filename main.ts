@@ -1,1 +1,6 @@
-// leave empty
+namespace bazaar {
+    //% block
+    export function doStuff() {
+
+    }
+}
