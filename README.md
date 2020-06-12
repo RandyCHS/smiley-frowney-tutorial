@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/smiley-frowney-tutorial/tutorial)
+* [tutorial](/smiley-frowney-tutorial/tutorial) [start](https://makecode.microbit.org/#tutorial:github:randychs/smiley-frowney-tutorial/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/randychs/smiley-frowney-tutorial/workflows/MakeCode/badge.svg)
 
