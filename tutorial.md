@@ -1,4 +1,4 @@
-# My Tutorial
+# Awesome Tutorial
 
 ## Step 1
 
