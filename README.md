@@ -4,6 +4,7 @@
 ## Tutorials
 
 * [tutorial](/smiley-frowney-tutorial/tutorial) [start](https://makecode.microbit.org/#tutorial:github:randychs/smiley-frowney-tutorial/tutorial)
+* [tutorial 2](/smiley-frowney-tutorial/tutorial2) [start](https://makecode.microbit.org/#tutorial:github:randychs/smiley-frowney-tutorial/tutorial2)
 
 ## Edit this project ![Build status badge](https://github.com/randychs/smiley-frowney-tutorial/workflows/MakeCode/badge.svg)
 
@@ -12,13 +13,6 @@ To edit this repository in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
 * paste **https://github.com/randychs/smiley-frowney-tutorial** and click import
-
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/randychs/smiley-frowney-tutorial/raw/master/.github/makecode/blocks.png)
 
 #### Metadata (used for search, rendering)
 
